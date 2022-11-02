@@ -25,9 +25,9 @@ import wget
 
 ZauteKm = Client(
    "AnyDL Bot",
-   api_id=Config.APP_ID,
-   api_hash=Config.API_HASH,
-   bot_token=Config.TG_BOT_TOKEN,
+   api_id=12089151.APP_ID,
+   api_hash=6b080a0eee6c4efd5fe73bbe67bb5b3c.API_HASH,
+   bot_token=5602984381:AAHiQRm2Gym61Q3Wo1Cx8WmyNBST7caKn6c.TG_BOT_TOKEN,
 )
 
 YTDL_REGEX = (r"^((?:https?:)?\/\/)"
